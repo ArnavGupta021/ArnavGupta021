@@ -1,4 +1,6 @@
 ## Hi there 👋
+## My name is Arnav Gupta 
+## I'm currently learning backend devlopment 
 
 <!--
 **ArnavGupta021/ArnavGupta021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
