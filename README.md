@@ -1,24 +1,13 @@
 Welcome! I'm Arnav Gupta, a B.Tech student in Computer Science and Engineering (IoT) from PSIT Kanpur.
+🔭 I’m currently working on Data Analytics
+🌱 I’m currently learning ML
+👯 I’m looking to collaborate on ML and Data analytics project
+📫 How to reach me: arnavanilgupta@gmail.com
 
-##About Me
-    Interests: Web Development, Machine Learning, Data Analytics, Open Source.
-    Current Focus: Node.js, React, AI in medical imaging.
-    
-##Skills
-    Languages: C++, JavaScript, Python.
-    Web Development: HTML, CSS, JavaScript, React, Node.js.
-    Tools: Git, GitHub, VS Code.
-    Machine Learning: AI-Powered Pneumonia Detection.
 
-##Featured Projects
-    Sale-Insightify: Sales Analysis software.
-    AI-Powered Pneumonia Detection: AI for medical imaging.
-    Online Theatre Ticket Booking: JavaScript project.
-    
-##Contact Me
-    GitHub: github.com/ArnavGupta021
-    LinkedIn: linkedin.com/in/ArnavGupta
-    Email: arnavanilgupta@gmail.com
+
+
+
 
 
 <!--
