@@ -1,8 +1,9 @@
+
 Welcome! I'm Arnav Gupta, a B.Tech student in Computer Science and Engineering (IoT) from PSIT Kanpur.
-🔭 I’m currently working on Data Analytics
-🌱 I’m currently learning ML
-👯 I’m looking to collaborate on ML and Data analytics project
-📫 How to reach me: arnavanilgupta@gmail.com
+- 🔭 I’m currently working on Data Analytics
+-🌱 I’m currently learning ML
+-👯 I’m looking to collaborate on ML and Data analytics project
+-📫 How to reach me: arnavanilgupta@gmail.com
 
 
 
